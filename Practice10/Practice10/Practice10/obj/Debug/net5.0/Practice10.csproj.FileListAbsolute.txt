@@ -1,0 +1,16 @@
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.exe
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.deps.json
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.json
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.dll
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\ref\Practice10.dll
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\bin\Debug\net5.0\Practice10.pdb
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.dll
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\ref\Practice10.dll
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.pdb
+C:\Users\305-10\Desktop\Шайдуллин\Practice10\Practice10\Practice10\obj\Debug\net5.0\Practice10.genruntimeconfig.cache
